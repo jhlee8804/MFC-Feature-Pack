@@ -46,3 +46,4 @@ Temporary Items
 Debug
 Release
 ipch
+*.suo
