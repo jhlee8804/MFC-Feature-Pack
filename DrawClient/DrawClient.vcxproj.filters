@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7af17c9e-555c-4cde-8728-f30965364ddf}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;r;odl;hpj;bat;for;f90</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6e468733-0e1e-421b-af14-dc87ef5ed355}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;inl;fi;fd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1b8c3673-8c98-408e-9db9-1521012a9873}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;cnt;rtf;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cntritem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawdoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawobj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawtool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawvw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineWeightDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainfrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="propset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rectdlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonListButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="splitfrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="statpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="summinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="summpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cntritem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawdoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawobj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawtool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawvw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineWeightDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mainfrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="propset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rectdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonListButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="splitfrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="statpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="summinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="summpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\DrawClient.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\drawdoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filelarge.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filesmall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\formatlarge.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\formatsmall.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\homelarge.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\homesmall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\lineweight.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\main.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\prop24.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ribbonicons.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\sb_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\sb_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\styles.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\viewlarge.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\viewsmall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DrawClient.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\DrawClient.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\pencil.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="setup.rul">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.htm" />
+  </ItemGroup>
+</Project>
