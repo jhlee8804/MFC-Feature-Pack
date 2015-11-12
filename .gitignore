@@ -44,7 +44,9 @@ Temporary Items
 *.sdf
 *.opensdf
 Debug
+Debug Static
 Release
+Release Static
 ipch
 *.suo
 *.suo
