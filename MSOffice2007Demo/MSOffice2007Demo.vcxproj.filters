@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{84583f25-3671-4bf8-92d6-705b92e9abb4}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{49ee72ca-c190-4150-970b-dc05ecc6b729}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{bca461b5-171f-46df-9be6-502e9b26f54d}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CntrItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgBanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="keys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSOffice2007Demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSOffice2007DemoDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSOffice2007DemoView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourcePage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonListButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonTableButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RibbonTooltipCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskPane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MSOffice2007Demo.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CntrItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgBanner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="keys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSOffice2007Demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSOffice2007DemoDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSOffice2007DemoView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourcePage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonListButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonTableButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RibbonTooltipCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskPane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bullets-recent.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bullets.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Buttons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\chart.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartDesign.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartDesignLarge.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartFormat.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartFormatLarge.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartLayout.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ChartLayoutLarge.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filelarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\filesmall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\font.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Insert.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertIllustrations.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertIllustrationsLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertLinks.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertLinksLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertPages.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertPagesLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertTable.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertTableLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\InsertTextLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\LargeButtons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\largeicons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\layout.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Mailings.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MailingsLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\main.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MSOffice2007Demo.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\MSOffice2007DemoDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\num.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\options.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\PageLayout.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\PageLayoutLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\paragraph.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\picture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\PictureFormat.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\PictureFormatLarge.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\References.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ReferencesLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\refresh.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\shape1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Shape7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\smallicons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\spell.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\spell.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\styles.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\table.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tooltip-clipboard.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tooltip-fontdlg.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tooltip-main.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tooltip-paragraph.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\View.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ViewLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ViewPat_1.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ViewPat_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ViewPat_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ViewPat_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Write.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WriteFont.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WriteFont16.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WriteLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WriteParagraph.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HeaderPat_1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HeaderPat_2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HeaderPat_3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HeaderPat_4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\info.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\multi.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\position2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\position1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Review.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ReviewLarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ThemeColors.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ThemeThemes.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ThemeEffects.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ThemeFonts.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MSOffice2007Demo.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="xptheme.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\tasks.bmp">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
