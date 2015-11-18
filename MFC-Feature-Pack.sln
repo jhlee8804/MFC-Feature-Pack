@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSOffice2007Demo", "MSOffic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OutlookDemo", "OutlookDemo\OutlookDemo.vcxproj", "{2248F8B6-80A9-416F-822C-073E60798DAE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OutlookMultiViews", "OutlookMultiViews\OutlookMultiViews.vcxproj", "{3037585E-E983-4B37-A9D7-47D0EBF57DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug Static|Win32 = Debug Static|Win32
@@ -266,6 +268,22 @@ Global
 		{2248F8B6-80A9-416F-822C-073E60798DAE}.Release|Win32.Build.0 = Release|Win32
 		{2248F8B6-80A9-416F-822C-073E60798DAE}.Release|x64.ActiveCfg = Release|x64
 		{2248F8B6-80A9-416F-822C-073E60798DAE}.Release|x64.Build.0 = Release|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug Static|Win32.ActiveCfg = Debug Static|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug Static|Win32.Build.0 = Debug Static|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug Static|x64.ActiveCfg = Debug Static|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug Static|x64.Build.0 = Debug Static|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug|Win32.Build.0 = Debug|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug|x64.ActiveCfg = Debug|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Debug|x64.Build.0 = Debug|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release Static|Win32.ActiveCfg = Release Static|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release Static|Win32.Build.0 = Release Static|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release Static|x64.ActiveCfg = Release Static|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release Static|x64.Build.0 = Release Static|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release|Win32.ActiveCfg = Release|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release|Win32.Build.0 = Release|Win32
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release|x64.ActiveCfg = Release|x64
+		{3037585E-E983-4B37-A9D7-47D0EBF57DCF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
